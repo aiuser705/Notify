@@ -2,11 +2,15 @@
 
 A modern, fast, and feature-rich music streaming application for Android.
 
-## Download Latest Release
+## Download Latest Release (v0.7.9)
 
-Download the latest signed Android APK:
+Choose the APK that best suits your device:
 
-- **[Download NotiFy v0.7.9 (arm64-v8a)](https://github.com/aiuser705/Notify/releases/download/v0.7.9/app-arm64-v8a-release.apk)**
+- **[Download Universal APK (Recommended for all devices - 204 MB)](https://github.com/aiuser705/Notify/releases/download/v0.7.9/app-universal-release.apk)**  
+  *Compatible with all Android phones, tablets, and emulators.*
+
+- **[Download arm64-v8a APK (Fast download - 58 MB)](https://github.com/aiuser705/Notify/releases/download/v0.7.9/app-arm64-v8a-release.apk)**  
+  *Optimized for all modern 64-bit Android smartphones.*
 
 ## Features
 
@@ -19,5 +23,5 @@ Download the latest signed Android APK:
 ## Installation Instructions
 
 1. Download the APK file on your Android device.
-2. Open the file and allow installation from unknown sources if prompted.
+2. Open the downloaded file and allow installation from unknown sources if prompted.
 3. Open NotiFy and enjoy!
